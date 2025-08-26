@@ -7,7 +7,7 @@ arr = np.array([[1, 2, 3],
 
 print("Array:\n", arr)
 
-# Shape of the array (rows, columns)
+# Shape of the array (rows, columns) 
 print("\nShape:", arr.shape)
 
 # Number of dimensions
