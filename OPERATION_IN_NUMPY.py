@@ -1,0 +1,13 @@
+import numpy as np
+shape = (2, 3)
+array = np.array([[1, 2, 3], [4, 5, 6]])
+print("Original Array:")
+print(array)
+print("\nArray + 2:")
+print(array + 2)
+print("\nArray - 1:")
+print(array - 1)
+print("\nArray * 3:")
+print(array * 3)
+print("\nArray / 2:")
+print(array / 2)
